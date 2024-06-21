@@ -1,0 +1,47 @@
+<div class="wrapper">
+    <!-- Page Header Start -->
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 i18n>{{"9063344890262493319"|translate}}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Portfolio Start -->
+    <div class="portfolio">
+        <div class="container">
+            <div class="section-header">
+                <p i18n>{{"9063344890262493319"|translate}}</p>
+                <h2 i18n>{{"5392929630720441854"|translate}}</h2>
+            </div>
+            <div class="row portfolio-container justify-content-center" id="service-cards">
+                <!-- Service cards will be dynamically generated here -->
+                <div class="col-lg-4 col-md-6 col-sm-12 mb-4" *ngFor="let service of services">
+                    <div class="card">
+                        <img src="{{ service.image }}" class="card-img-top" alt="{{ service.title }}">
+                        <div class="card-body">
+                            <h5 i18n class="card-title">{{ service.name }}</h5>
+                            <p i18n class="card-text">{{ service.description }}</p>
+                            <div *ngIf="isUserAuthorizeToEditOrDelete" class="text-center mt-3">
+                                <button i18n class="btn btn-primary mr-2" [routerLink]="['/EditService',service.id]">{{"2949657722816283069"|translate}}</button>
+                                <button i18n class="btn btn-danger" (click)="deleteService(service)">{{"7022070615528435141"|translate}}</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div *ngIf="isUserAuthorizeToEditOrDelete" class="text-center mt-3">
+                <a class="btn" id="add" routerLink="/AddNewService">
+                    <img src="assets/images/addService.png" style="width:200px;margin-top: 50px;margin-bottom: 50px;" />
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio End -->
+
+    <a href="" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+</div>

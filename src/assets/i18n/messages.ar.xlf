@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+<trans-unit id="5736481176444461852" datatype="html">
+  <source>من نحن</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">7,8</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">11,12</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/footer/footer.component.html</context>
+    <context context-type="linenumber">26,27</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2821179408673282599" datatype="html">
+  <source>الرئيسية</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">10,11</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/navbar/navbar.component.html</context>
+    <context context-type="linenumber">31</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6133298905980780671" datatype="html">
+  <source>لماذا نحن</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">30,31</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8014746615610034291" datatype="html">
+  <source>بعد العمل بشكل مكثف في صناعة التنظيف واكتساب خبرة قيمة في خدمة العملاء، تلتزم Friends Clean Mg بخدمة عملائنا بتميز ودقة لا مثيل لهما. رضا العملاء هو أولويتنا القصوى، ونحن مستعدون لمعالجة أي مخاوف بسرعة لضمان تجربة إيجابية لكل عميل.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">32,36</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">40,44</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4963545458460135420" datatype="html">
+  <source>رضاك هو أولويتنا القصوى، ونحن نبذل قصارى جهدنا لضمان أن كل تفاعل مع فريقنا يتركك مسرورًا. اختر Friends Clean Mg لتجربة تنظيف منعشة وسلسة وممتعة.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">40,42</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">48,50</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2344476685445126849" datatype="html">
+  <source>قصة الموعد</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">56,57</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3972229828843795592" datatype="html">
+  <source>تعرف على طريقة حجز الموعد لدينا</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">58</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2241508602425256033" datatype="html">
+  <source>أولاً</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">65,66</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2012727291210055803" datatype="html">
+  <source>قم بتنزيل نموذج الطلب</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">73,74</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="400704802838578125" datatype="html">
+  <source>انقر على زر التنزيل في النهاية لتنزيل نموذج الموعد وطباعته</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">75,76</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8110184881284121725" datatype="html">
+  <source>تفاصيل النموذج</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">90,91</context>
+  </context-group>
+</trans-unit><trans-unit id="7118835210651176668" datatype="html">
+  <source>هذا النموذج لمساعدتنا في معرفة المزيد عن اسمك، بريدك الإلكتروني، عنوانك، الوقت المناسب للتنظيف، مساحة المكان ويمكنك اختيار أفضل طريقة للتواصل عبر البريد الإلكتروني أو الواتساب</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">92,94</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4620310062886462675" datatype="html">
+  <source>ثم</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">108,109</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8104519385005136479" datatype="html">
+  <source>املأ النموذج</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">120,121</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3870996075847304713" datatype="html">
+  <source>بعد تنزيله، يرجى ملء النموذج ثم إرساله إلى البريد الإلكتروني أو رقم الواتساب الخاص بشركة Friends Clean</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">122,123</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="1419680092224137940" datatype="html">
+  <source>بعد ذلك</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">137,138</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="1583248674280412816" datatype="html">
+  <source>يرجى تقديم النموذج على رقم الواتساب أو البريد الإلكتروني وسيتواصل معك فريقنا في أقرب وقت ممكن</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">139,140</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5828066829690602391" datatype="html">
+  <source>أخيرًا</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">153,154</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7121815990299221649" datatype="html">
+  <source>شكراً لزيارتك</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">165,166</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7779651302850305447" datatype="html">
+  <source>نحن متحمسون جداً لخدمتك</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">166,167</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5107530057766197526" datatype="html">
+  <source>ابدأ</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/about/about.component.html</context>
+    <context context-type="linenumber">195</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="9116501826394975421" datatype="html">
+  <source>إضافة خدمة جديدة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">5,6</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8604852007710946848" datatype="html">
+  <source>اسم الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">11,12</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">11,12</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3826790322520473098" datatype="html">
+  <source>وصف الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">22,23</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">22,23</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5514303537686748462" datatype="html">
+  <source>صورة الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">34,35</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8640774191050406264" datatype="html">
+  <source>فئة الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">47,48</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">34,35</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="289803073100772600" datatype="html">
+  <source>اختر اسم الفئة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">54,55</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7708270344948043036" datatype="html">
+  <source><x id="INTERPOLATION" equiv-text="{{ category.name }}"/></source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">60,61</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="187187500641108332" datatype="html">
+  <source><x id="INTERPOLATION" equiv-text="{{ errorKey }}"/></source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">66,67</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">118,119</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">136,137</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">53,54</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+    <context context-type="linenumber">151,152</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+    <context context-type="linenumber">27,28</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+    <context context-type="linenumber">28,29</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="866856512906807014" datatype="html">
+  <source>إضافة خدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">75</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7035863094011628363" datatype="html">
+  <source>إضافة فئة جديدة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">85</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5265520188056210631" datatype="html">
+  <source>اسم الفئة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">94,95</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8734826662923148082" datatype="html">
+  <source>وصف الفئة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">105,106</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2802002431402061968" datatype="html">
+  <source>إضافة فئة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">127</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7858668225672857957" datatype="html">
+  <source>إلغاء</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/add-service/add-service.component.html</context>
+    <context context-type="linenumber">135</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3063963565071368710" datatype="html">
+  <source>تعديل كلمة المرور</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">5,6</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3000290605009809482" datatype="html">
+  <source>اكتب بريدك الإلكتروني</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">15,16</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2397816345463091163" datatype="html">
+  <source>كلمة المرور القديمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">42,43</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="1221596867309460035" datatype="html">
+  <source>كلمة المرور الجديدة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">69,70</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6576805318521783926" datatype="html">
+  <source>تأكيد كلمة المرور الجديدة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">96,97</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="197602438311859101" datatype="html">
+  <source>تعديل كلمة المرور</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/change-password/change-password.component.html</context>
+    <context context-type="linenumber">146</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="2949657722816283069" datatype="html">
+  <source>تعديل الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">5,6</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6185546642857065891" datatype="html">
+  <source>اختر فئة الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">41,42</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4316517168190143459" datatype="html">
+  <source>تعديل الخدمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/edit-service/edit-service.component.html</context>
+    <context context-type="linenumber">61</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4153787616708320320" datatype="html">
+  <source>تواصل معنا</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/footer/footer.component.html</context>
+    <context context-type="linenumber">8,9</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6776797437721032525" datatype="html">
+  <source>تبدأ ساعات العمل الرسمية من الثامنة صباحًا حتى الثامنة مساءً</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/footer/footer.component.html</context>
+    <context context-type="linenumber">12,13</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3894347693662504381" datatype="html">
+  <source>رابط مفيد</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/footer/footer.component.html</context>
+    <context context-type="linenumber">25,26</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="9063344890262493319" datatype="html">
+  <source>خدماتنا</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/footer/footer.component.html</context>
+    <context context-type="linenumber">27,28</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">64,65</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+    <context context-type="linenumber">7,8</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+    <context context-type="linenumber">18,19</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6162157977972494122" datatype="html">
+  <source>© جميع الحقوق محفوظة.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/footer/footer.component.html</context>
+    <context context-type="linenumber">40,41</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6381827985834354507" datatype="html">
+  <source>تنظيف الحدائق</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">8,9</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">21,22</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5696816436381441807" datatype="html">
+  <source>تنظيف جميع الحدائق</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">22,23</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3390673105658230349" datatype="html">
+  <source>قص العشب</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">28,29</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4688971026763038294" datatype="html">
+  <source>يضمن قص العشب بانتظام وجود مروج كثيفة ومتساوية، ويعزز من جمال المكان، ويمنع نمو الأعشاب الضارة والآفات</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">30</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="9222832625953648745" datatype="html">
+  <source>تقليم الأشجار</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">38,39</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8749582102241770723" datatype="html">
+  <source>يُحسن تقليم الأشجار شكلها، يعزز من نموها الصحي، ويمنع الأمراض من خلال إزالة الفروع الميتة أو المتضخمة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">41</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3035203748378984703" datatype="html">
+  <source>علاج الأشجار بالمبيدات الحشرية</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">49,50</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7761370820429065589" datatype="html">
+  <source>يساعد علاج الأشجار بالمبيدات الحشرية على التحكم في الآفات والأمراض، ويضمن النمو الصحي والحيوية</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">51</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4896132317168170598" datatype="html">
+  <source>تزيين الأشجار</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">59,60</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="3546630932242355623" datatype="html">
+  <source>يعمل تزيين الأشجار وقصها على تحويل المناظر الطبيعية، مما يعزز الجمال ويشجع على النمو الصحي من خلال الصيانة الدقيقة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">61,62</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="317176726244623149" datatype="html">
+  <source>قد تسأل</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">76,77</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+    <context context-type="linenumber">72,73</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+    <context context-type="linenumber">157,158</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="9221730911539762110" datatype="html">
+  <source>الأسئلة المتكررة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">77,78</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+    <context context-type="linenumber">73,74</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+    <context context-type="linenumber">158,159</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5375869754344308446" datatype="html">
+  <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>1<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ما الذي يتضمنه تنظيف الحدائق؟ </source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">87,88</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5050278742548965784" datatype="html">
+  <source>يتضمن تنظيف الحدائق إزالة الحطام، تقليم النباتات، قص المروج، والحفاظ على النظافة العامة.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">92</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4642107981645099244" datatype="html">
+  <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>2<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>كم مرة يجب تنظيف الحدائق؟ </source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">99,100</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4036682306370914758" datatype="html">
+  <source>يجب تنظيف الحدائق بانتظام، ويفضل أن يتم ذلك مرة في الأسبوع أو حسب الحاجة وفقًا للتغيرات الموسمية.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">104</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="1521998710048445304" datatype="html">
+  <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>3<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ما هي الأدوات الأساسية لتنظيف الحدائق؟ </source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">111,112</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="5632063158564835531" datatype="html">
+  <source>تشمل الأدوات الأساسية مجرفة، مجرفة صغيرة، مقصات تقليم، جزازة العشب، وأكياس القمامة.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">116</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8532224364945044509" datatype="html">
+  <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>4<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> كيف يمكن لتنظيف الحدائق أن يساهم في صحة النباتات؟ </source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">123,124</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="549778078403126589" datatype="html">
+  <source>إزالة الحطام وتقليم النباتات يمكن أن يحسن من تهوية الهواء والتعرض لأشعة الشمس، مما يعزز صحة النباتات.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">128</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="6692788950981268263" datatype="html">
+  <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>5<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> لماذا يُعد التخلص السليم من النفايات مهمًا في تنظيف الحدائق؟ </source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">135,136</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7591270271699470417" datatype="html">
+  <source>يمنع التخلص السليم من النفايات تراكم المواد المتعفنة، والتي يمكن أن تجذب الآفات وتؤوي الأمراض.</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">140</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7145772840389916564" datatype="html">
+  <source>اسأل المزيد</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/garden-services/garden-services.component.html</context>
+    <context context-type="linenumber">146</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+    <context context-type="linenumber">145</context>
+  </context-group>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+    <context context-type="linenumber">269,270</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="8707887448880467422" datatype="html">
+  <source>أصدقاء</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">8,9</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7076533281093840692" datatype="html">
+  <source>حيث يلمع كل ركن بدفء النظافة ووعد بمساحة منزل أو مكتب أو حديقة نظيفة</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">13,14</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="934914398317254321" datatype="html">
+  <source>استكشاف الآن</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">17,18</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="4715094694892014591" datatype="html">
+  <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>مرحبا<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> بكم في شركتنا</source>
+  <context-group purpose="location">
+    <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+    <context context-type="linenumber">38,39</context>
+  </context-group>
+</trans-unit>
+<trans-unit id="7002955679222677443" datatype="html">
+    <source>تعلم المزيد</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">53,54</context>
+    </context-group>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">76,77</context>
+    </context-group>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">87,88</context>
+    </context-group>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">98,99</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5178047687155577312" datatype="html">
+    <source>توفير الخدمات عالميًا</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">65,66</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2496701500166281208" datatype="html">
+    <source>خدمات المنزل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">71,72</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7432722011722020845" datatype="html">
+    <source>اكتشف خدمات التنظيف الشاملة لمنزلنا، المصممة لتتجاوز توقعاتك وتسعد الضيوف والسكان على حد سواء!</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">73,74</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="989668357397948324" datatype="html">
+    <source>خدمات الفندق</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">82,83</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3645355300764169183" datatype="html">
+    <source>نحن نقدم خدمات تنظيف دقيقة، مضمونة بيئات متفردة تسعد الضيوف والسكان على حد سواء!</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">84,85</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="659390662856901116" datatype="html">
+    <source>خدمات الحديقة</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">93,94</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="633871453171890576" datatype="html">
+    <source>حوّل حديقتك مع خدمات تنظيف حدائقنا الرائدة. نحن نضمن مساحة خارجية نظيفة ومرتبة بعناية خبيرة!</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">95,96</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1458127953082774822" datatype="html">
+    <source>احصل على خدمة تنظيف مريحة</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">109,110</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4998453680005234098" datatype="html">
+    <source>لا تتردد في الاتصال بنا</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">110,111</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="759687838251957893" datatype="html">
+    <source>اتصل بنا</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">118,119</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8474942222688011323" datatype="html">
+    <source>استراتيجيتنا</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">129,130</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="143658597545038077" datatype="html">
+    <source>الحجز سريع وسهل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">130,131</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="481239491661657812" datatype="html">
+    <source>حجز</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">136,137</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="352747090274448344" datatype="html">
+    <source>حدد الوقت والخدمة التي تناسبك</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">137,138</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5514962290219915087" datatype="html">
+    <source>نظّف</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">146,147</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3745595899762587669" datatype="html">
+    <source>بمجرد التأكيد، سنصل جاهزين للتنظيف بجميع اللوازم!</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">148</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7594122271664736720" datatype="html">
+    <source>استرخِ واستمتع</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">158,159</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2467928782456450659" datatype="html">
+    <source>استمتع بمنزلك النظيف مدعومًا بضمان الرضا التام 100%!</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">160</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="614274023083311954" datatype="html">
+    <source>التمرير إلى الأعلى</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/home/home.component.html</context>
+        <context context-type="linenumber">171,172</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7114811620696508821" datatype="html">
+    <source>تنظيف الفنادق</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">8,9</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="620187431938594914" datatype="html">
+    <source>شقق الفندق</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">18,19</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="644642733405031514" datatype="html">
+    <source>تنظيف جميع الفنادق</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">19,20</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2660849243382409515" datatype="html">
+    <source>تنظيف المطابخ</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">25,26</context>
+    </context-group>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">29,30</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4534320049268199129" datatype="html">
+    <source>يحافظ على النظافة عن طريق تعقيم الأسطح والأدوات وضمان بيئة نظيفة بشكل استثنائي.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">27</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="734952065558407307" datatype="html">
+    <source>غرف الفندق</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">35,36</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2318207808510443619" datatype="html">
+    <source>نحن نضمن أن غرف العملاء نظيفة جدًا ومعقمة بشكل جيد ومريحة بشكل استثنائي لجميع الضيوف.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">37</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5614307776194927799" datatype="html">
+    <source>مطاعم الطعام</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">45,46</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4666768274087447699" datatype="html">
+    <source>نحن نضمن نظافة مطاعم الطعام والمرافق الخاصة للصحة ورضا العملاء.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">47</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="803771506783845279" datatype="html">
+    <source>حمام السباحة</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">55,56</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="6865310776684833516" datatype="html">
+    <source>نحافظ على نظافة حمام السباحة من خلال التبييض المنتظم والتصفية وإزالة الشوائب لحمام سباحة آمن.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">57</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3407147346671342674" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>1<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> أي الأسطح التي يتم تعقيمها بشكل عادي في غرف الفنادق؟</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">83,84</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5532867592603421071" datatype="html">
+    <source>تعقيم الأسطح مثل الأسطح الخارجية للمطابخ والطاولات ومقابض الأبواب وتجهيزات الحمامات.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">88</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3566820684853448159" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>2<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> كم مرة يتم تغيير الملاءات في غرف الفنادق؟</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">95,96</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8163094738309573817" datatype="html">
+    <source>تُغيّر الملاءات يوميًا أو عند طلب النزيل للحصول على نظافة مثالية.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">100</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2796416519995721236" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>3<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ما هي المنتجات المستخدمة لتنظيف الحمامات في الفنادق؟</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">107,108</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5261584237916045065" datatype="html">
+    <source>يتم استخدام مطهرات ومنظفات خاصة بالحمامات بشكل شائع لتطهير الحمامات.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">112</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="9138510277752083591" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>4<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ما هي التدابير المتخذة لضمان نضارة غرف النزلاء؟</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">120,121</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4063978527993337991" datatype="html">
+    <source>التهوية الدورية ومنقيات الهواء ورذاذات التعقيم تحافظ على نضارة الغرف.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">125</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3685318133308520262" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>5<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> كيف يتم تنظيف السجاد والأرضيات في غرف الفنادق؟</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">133,134</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8123641179082106679" datatype="html">
+    <source>يتم استخدام الكنس والتنظيف بالبخار ومعالجات البقع للحفاظ على نظافة السجاد والأرضيات.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/hotel-services/hotel-services.component.html</context>
+        <context context-type="linenumber">138</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5957083487696178876" datatype="html">
+    <source>تنظيف المنزل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">7,8</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4019540586617799203" datatype="html">
+    <source>القسم الأول</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">18,19</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1106657001218304653" datatype="html">
+    <source>تنظيف كل المنزل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">19,20</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2957370507081839295" datatype="html">
+    <source>نحن نزيل الدهون والبقايا من المطابخ، مضمونين أن كل سطح نظيف وصحي.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">31,32</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5735454619361140247" datatype="html">
+    <source>تنظيف الزجاج</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">43,44</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4789409977832455402" datatype="html">
+    <source>نقوم بتنظيف نوافذ الزجاج والأبواب، مضمونين أنها نظيفة وخالية من الخطوط وواضحة تمامًا.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">45,46</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="6230821459101599626" datatype="html">
+    <source>غرفة النوم/غرفة المعيشة</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">57,58</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4114780964567677404" datatype="html">
+    <source>نقوم بتنظيف الغرف بدقة: تنظيف الغبار عن الأسطح، وتنظيف السجاد بالمكنسة الكهربائية، وترتيب المكان ليكون مكانًا نظيفًا ومرحبًا</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">59,60</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8953523975206438895" datatype="html">
+    <source>تنظيف الحمامات</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">71,72</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="833165023961391220" datatype="html">
+    <source>إزالة البقع والترسبات الجيرية، وضمان أن جميع الأجهزة نظيفة لامعة للحصول على نتيجة نظيفة تمامًا</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">73,74</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2115002583129580704" datatype="html">
+    <source>القسم الثاني</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">87,88</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="548418695822744039" datatype="html">
+    <source>تحريك الأثاث</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">88,89</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3608525316934053356" datatype="html">
+    <source>تحريك الأثاث</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">98,99</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="9074085362448594664" datatype="html">
+    <source>لنقوم بنقل أغراضك إلى وجهتها الجديدة بسلامة وسلامة</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">100,101</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="238603894730362023" datatype="html">
+    <source>تطهير محتوى المنزل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">112,113</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="9093894381303368494" datatype="html">
+    <source>إزالة العناصر غير الضرورية من المنزل للحصول على بيئة معيشية نظيفة ومنظمة وواسعة</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">114,115</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8244360649893281351" datatype="html">
+    <source>تنظيف شامل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">126,127</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8425409244732101582" datatype="html">
+    <source>تنظيف جميع المناطق، بما في ذلك المطابخ والحمامات وغرف الدراسة، للحصول على منزل نظيف ومرتب</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">128,129</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1071326786581565393" datatype="html">
+    <source>تلوين المنزل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">140,141</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1302098823989449366" datatype="html">
+    <source>تنشيط، وحماية، وتجميل منزلك، مما يعزز من جوهره وقيمته بشكل كبير</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">142,143</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8805338327648646192" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>1<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> كم مرة يجب أن أقوم بتنظيف منزلي بشكل جيد؟ </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">173,174</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5079809398316072656" datatype="html">
+    <source>حاول أن تقوم بتنظيف شامل مرة واحدة في الأسبوع للحصول على منزل نظيف وصحي</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">182</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1811568517738411035" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>2<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ما هو أفضل طريقة لإزالة البقع العنيدة من السجاد؟ </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">195,196</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4356567225608619024" datatype="html">
+    <source>امسح البقعة، ثم ضع خليطًا من الماء والخل وصابون الصحون.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">201,202</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5425703835553008193" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>3<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>  كيف يمكنني الحفاظ على رائحة المطبخ منتعشة بعد الطهي؟</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">214,215</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3824757975555430537" datatype="html">
+    <source>تُرقى الماء مع شرائح الليمون والتوابل أو استخدم الصودا الكربونية في الثلاجة.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">220,221</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5150314451178682587" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>4<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>ما هو الطريقة الأكثر فعالية لتنظيف النوافذ بدون ترك أثر؟ </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">233,234</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="288682101509638191" datatype="html">
+    <source>استخدم مزيجًا من الخل والماء أو الحلول المتخصصة لتنظيف النوافذ.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">239,240</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="6870138729348640621" datatype="html">
+    <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>5<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>كيف يمكنني منع تكون العفن والفطريات في الحمام ؟ </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">252,253</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="2505936321058576566" datatype="html">
+    <source>هوِّي المنطقة بانتظام، ونظف بمنتجات تقتل العفن، وأصلح التسربات بسرعة.</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/house-services/house-services.component.html</context>
+        <context context-type="linenumber">258,259</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="4339419593501828827" datatype="html">
+    <source>تسجيل الدخول إلى الموقع الإلكتروني</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">16,17</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7817163188308824825" datatype="html">
+    <source> البريد الإلكتروني </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">25</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1557080315836233628" datatype="html">
+    <source> كلمة المرور </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">43</context>
+    </context-group>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">139</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1908285951500318953" datatype="html">
+    <source> تسجيل الدخول </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">65</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="6863197159137582920" datatype="html">
+    <source> ليس لديك حساب؟ <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+            class=&quot;text-decoration-underline&quot;
+            style=&quot;cursor: pointer&quot;
+            (click)=&quot;haveAccount = !haveAccount&quot;
+            &gt;"/>أنشئ واحدًا!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a
+          &gt;"/></source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">68,75</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="357728900295913224" datatype="html">
+    <source> اشترك <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i
+            (click)=&quot;switchFromSignupToLogin()&quot;
+            style=&quot;cursor: pointer&quot;
+            class=&quot;fa-solid fs-1 fa-circle-arrow-left&quot;
+          &gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">88,95</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8778616811237742446" datatype="html">
+    <source> الاسم </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">103</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7016129083952522893" datatype="html">
+    <source> أدخل بريدك الإلكتروني </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">121</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="744750008248382275" datatype="html">
+    <source> اشترك </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/login/login.component.html</context>
+        <context context-type="linenumber">161</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="1726363342938046830" datatype="html">
+    <source>حول</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/navbar/navbar.component.html</context>
+        <context context-type="linenumber">39,40</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7143579180750436311" datatype="html">
+    <source>الخدمات</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/navbar/navbar.component.html</context>
+        <context context-type="linenumber">48,49</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="8225355642353524911" datatype="html">
+    <source>تسجيل الدخول/التسجيل</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/navbar/navbar.component.html</context>
+        <context context-type="linenumber">57,58</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="6582573664846559511" datatype="html">
+    <source>تغيير كلمة المرور</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/navbar/navbar.component.html</context>
+        <context context-type="linenumber">66,67</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="3797778920049399855" datatype="html">
+    <source>تسجيل الخروج</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/navbar/navbar.component.html</context>
+        <context context-type="linenumber">76,77</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="5392929630720441854" datatype="html">
+    <source>زيارة خدماتنا الجارية</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+        <context context-type="linenumber">19,20</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7585826646011739428" datatype="html">
+    <source>تحرير</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+        <context context-type="linenumber">30,31</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7022070615528435141" datatype="html">
+    <source>حذف</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+        <context context-type="linenumber">31,32</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="961796677709836434" datatype="html">
+    <source>حمامات السباحه</source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+        <context context-type="linenumber">31,32</context>
+    </context-group>
+</trans-unit>
+<trans-unit id="7858708933294285909" datatype="html">
+    <source>مجمع المطاعم </source>
+    <context-group purpose="location">
+        <context context-type="sourcefile">src/app/Components/services/services.component.html</context>
+        <context context-type="linenumber">31,32</context>
+    </context-group>
+</trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,185 @@
+<div class="wrapper">
+  <!-- Page Header Start -->
+  <div class="page-header" style="width: 100%">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 i18n>{{ "7114811620696508821" | translate }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Page Header End -->
+  <div class="service">
+    <div class="container">
+      <div class="section-header">
+        <p i18n>{{ "620187431938594914" | translate }}</p>
+        <h2 i18n>{{ "644642733405031514" | translate }}</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/hotel kitchen.jpg"
+              alt="kitchen cleaning"
+              style="height: 200px"
+            />
+            <h3 i18n>{{ "2660849243382409515" | translate }}</h3>
+            <p i18n>
+              {{ "4534320049268199129" | translate }}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/hotel room.jpg"
+              alt="Hotel Rooms"
+              style="height: 200px"
+            />
+            <h3 i18n>{{ "734952065558407307" | translate }}</h3>
+            <p i18n>
+              {{ "2318207808510443619" | translate }}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/food court.jpg"
+              alt="Food Courts"
+              style="height: 200px"
+            />
+            <h3 i18n>{{ "7858708933294285909" | translate }}</h3>
+            <p i18n>
+              {{ "4666768274087447699" | translate }}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/Swimming bool.jpg"
+              alt="Swimming pool"
+              style="height: 200px"
+            />
+            <h3 i18n>{{ "961796677709836434" | translate }}</h3>
+            <p i18n>
+              {{ "4534320049268199129" | translate }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Service End -->
+  <div class="faqs">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5">
+          <div class="section-header left">
+            <p i18n>{{ "317176726244623149" | translate }}</p>
+            <h2 i18n>{{ "9221730911539762110" | translate }}</h2>
+          </div>
+          <img src="assets/images/questions.jpg" alt="Image" />
+        </div>
+        <div class="col-md-7">
+          <div id="accordion">
+            <div class="card" style="cursor:pointer"  (click)="Active[0]= !Active[0]">
+              <div class="card-header">
+                <a
+                  i18n
+                  class="card-link collapsed"
+                  data-toggle="collapse"
+                  aria-expanded="true"
+                >
+                  {{ "5375869754344308446" | translate }}
+                </a>
+              </div>
+              <div
+                id="collapseOne"
+                class="collapse" [ngClass]="{'show':Active[0]}"
+                data-parent="#accordion"
+              >
+                <div i18n class="card-body">
+                  {{ "5532867592603421071" | translate }}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer"  (click)="Active[1]= !Active[1]">
+              <div class="card-header">
+                <a
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{ "3566820684853448159" | translate }}
+                </a>
+              </div>
+              <div id="collapseTwo" class="collapse" [ngClass]="{'show':Active[1]}" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{ "8163094738309573817" | translate }}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer"  (click)="Active[2]= !Active[2]">
+              <div class="card-header">
+                <a
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{ "2796416519995721236" | translate }}
+                </a>
+              </div>
+              <div id="collapseThree" class="collapse" [ngClass]="{'show':Active[2]}" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{ "5261584237916045065" | translate }}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer"  (click)="Active[3]= !Active[3]">
+              <div class="card-header">
+                <a
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{ "9138510277752083591" | translate }}
+                </a>
+              </div>
+              <div id="collapseFour" class="collapse" [ngClass]="{'show':Active[3]}" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{ "4063978527993337991" | translate }}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer"  (click)="Active[4]= !Active[4]">
+              <div class="card-header">
+                <a
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{ "3685318133308520262" | translate }}
+                </a>
+              </div>
+              <div id="collapseFour" class="collapse" [ngClass]="{'show':Active[4]}" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{ "8123641179082106679" | translate }}
+                </div>
+              </div>
+            </div>
+          </div>
+          <a
+            i18n
+            class="btn"
+            href="https://wa.me/201017182110?text=Your%20message%20here"
+            target="_blank"
+            >{{ "7145772840389916564" | translate }}</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

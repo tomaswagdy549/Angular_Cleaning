@@ -1,0 +1,142 @@
+<div class="wrapper">
+  <div class="service">
+    <div class="container">
+      <div class="section-header">
+        <h2 i18n>{{"9116501826394975421"|translate}}</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <form id="serviceForm" enctype="multipart/form-data">
+            <div class="form-group">
+              <label i18n for="serviceName">{{"8604852007710946848"|translate}}</label>
+              <input
+                type="text"
+                [(ngModel)]="insertedService.serviceName"
+                class="form-control"
+                id="serviceName"
+                name="serviceName"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label i18n for="serviceDescription">{{"3826790322520473098"|translate}}</label>
+              <textarea
+                class="form-control"
+                [(ngModel)]="insertedService.serviceDescription"
+                id="serviceDescription"
+                name="serviceDescription"
+                cols="4"
+                style="resize: none"
+                required
+              ></textarea>
+            </div>
+            <div class="form-group">
+              <label i18n for="serviceImage">{{"5514303537686748462"|translate}}</label>
+              <input
+                type="file"
+                [(ngModel)]="insertedService.serviceImage"
+                class="form-control-file"
+                id="serviceImage"
+                name="serviceImage"
+                accept="image/jpeg"
+                (change)="handleImageInput($event)"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label i18n for="serviceImage">{{"8640774191050406264"|translate}}</label>
+              <select
+                class="form-select"
+                id="sel1"
+                name="Category"
+                [(ngModel)]="insertedService.categoryId"
+              >
+                <option i18n [value]="0">{{"289803073100772600"|translate}}</option>
+                <option
+                  i18n
+                  *ngFor="let category of categoriesOptions"
+                  [value]="category.id"
+                >
+                  {{ category.name }}
+                </option>
+              </select>
+            </div>
+            <div *ngIf="serviceErrors" class="form-group">
+              <div *ngFor="let errorKey of objectvalues(serviceErrors)">
+                <p i18n style="color: red">{{ errorKey }}</p>
+              </div>
+            </div>
+            <button
+              i18n
+              type="button"
+              class="btn btn-primary"
+              (click)="addService()"
+            >
+             {{"866856512906807014"|translate}}
+            </button>
+          </form>
+          <button
+            i18n
+            *ngIf="!displayCategoryForm"
+            type="button"
+            class="btn btn-primary float-end"
+            (click)="displayCategoryForm = !displayCategoryForm"
+          >
+            {{"7035863094011628363"|translate}}
+          </button>
+          <br />
+          <form
+            *ngIf="displayCategoryForm"
+            id="serviceForm"
+            enctype="multipart/form-data"
+          >
+            <div class="form-group">
+              <label i18n for="serviceName">{{"5265520188056210631"|translate}}</label>
+              <input
+                type="text"
+                [(ngModel)]="insertedCategory.CategoryName"
+                class="form-control"
+                id="serviceName"
+                name="serviceName"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label i18n for="serviceDescription">{{"8734826662923148082"|translate}}</label>
+              <textarea
+                class="form-control"
+                [(ngModel)]="insertedCategory.CategoryDescription"
+                id="serviceDescription"
+                name="serviceDescription"
+                cols="4"
+                style="resize: none"
+                required
+              ></textarea>
+            </div>
+            <div *ngIf="categoryErrors" class="form-group">
+              <div *ngFor="let errorKey of objectvalues(categoryErrors)">
+                <p i18n style="color: red">{{ errorKey }}</p>
+              </div>
+            </div>
+            <button
+              type="button"
+              class="btn btn-primary"
+              (click)="addCategory()"
+              i18n
+            >
+             {{"2802002431402061968"|translate}}
+            </button>
+            <button
+              i18n
+              type="button"
+              class="btn btn-primary float-end"
+              (click)="displayCategoryForm = !displayCategoryForm"
+            >
+              {{"7858668225672857957"|translate}}
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

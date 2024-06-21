@@ -1,0 +1,151 @@
+<div class="wrapper">
+
+    <!-- Page Header Start -->
+    <div class="page-header" style="width: 100%;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 i18n>{{"7114811620696508821"|translate}}</h2>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+
+    <!-- Service Start -->
+    <div class="service">
+        <div class="container">
+            <div class="section-header">
+                <p i18n>{{"6381827985834354507"|translate}}</p>
+                <h2 i18n>{{"5696816436381441807"|translate}}</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="service-item">
+                        <img src="assets/images/Cutting the Grass.jpg" alt="Cutting the Grass" style="height: 200px;">
+                        <h3 i18n>{{"3390673105658230349"|translate}}</h3>
+                        <p i18n>
+                        {{"4688971026763038294"|translate}}  
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="service-item">
+                        <img src="assets/images/pruning tree.jpg" alt="pruning trees" style="height: 200px;">
+                        <h3 i18n>{{"9222832625953648745"|translate}}</h3>
+                        <p i18n>
+                        {{"8749582102241770723"|translate}}
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="service-item">
+                        <img src="assets/images/Treating trees with pesticides.jpg" alt="Treating trees with pesticides" style="height: 200px;">
+                        <h3 i18n>{{"3035203748378984703"|translate}}</h3>
+                        <p i18n>
+                        {{"7761370820429065589"|translate}}   
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="service-item">
+                        <img src="assets/images/Decorating trees.jpg" alt="Decorating trees" style="height: 200px;">
+                        <h3 i18n>{{"4896132317168170598"|translate}}</h3>
+                        <p i18n>
+                            {{"3546630932242355623"|translate}}
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+    <div class="faqs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="section-header left">
+                        <p i18n>{{"317176726244623149"|translate}}</p>
+                        <h2 i18n>{{"9221730911539762110"|translate}}</h2>
+                    </div>
+                    <img src="assets/images/questions.jpg" alt="Image">
+                </div>
+                <div class="col-md-7">
+                    <div id="accordion">
+                        <div class="card" (click)="Active[0]= !Active[0]"  style="cursor:pointer" >
+                            <div class="card-header">
+                                <a i18n class="card-link collapsed" data-toggle="collapse" 
+                                    aria-expanded="true">
+                                    {{"5375869754344308446"|translate}}
+                                </a>
+                            </div>
+                            <div id="collapseOne" class="collapse" [ngClass]="{'show':Active[0]}" data-parent="#accordion">
+                                <div i18n class="card-body">
+                                    {{"5050278742548965784"|translate}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card" (click)="Active[1]= !Active[1]"  style="cursor:pointer" >
+                            <div class="card-header">
+                                <a i18n class="card-link collapsed" data-toggle="collapse" >
+                                    {{"4642107981645099244"|translate}}
+                                </a>
+                            </div>
+                            <div id="collapseTwo" class="collapse" [ngClass]="{'show':Active[1]}" data-parent="#accordion">
+                                <div i18n class="card-body">
+                                    {{"4036682306370914758"|translate}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card" (click)="Active[2]= !Active[2]"  style="cursor:pointer" >
+                            <div class="card-header">
+                                <a i18n class="card-link collapsed" data-toggle="collapse" >
+                                    {{"1521998710048445304"|translate}}
+                                </a>
+                            </div>
+                            <div id="collapseThree" class="collapse" [ngClass]="{'show':Active[2]}" data-parent="#accordion">
+                                <div i18n class="card-body">
+                                   {{"5632063158564835531"|translate}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card" (click)="Active[3]= !Active[3]"  style="cursor:pointer" >
+                            <div class="card-header">
+                                <a i18n class="card-link collapsed" data-toggle="collapse">
+                                    {{"8532224364945044509"|translate}}
+                                </a>
+                            </div>
+                            <div id="collapseFour" class="collapse" [ngClass]="{'show':Active[3]}" data-parent="#accordion">
+                                <div i18n class="card-body">
+                                    {{"549778078403126589"|translate}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card" (click)="Active[4]= !Active[4]"  style="cursor:pointer" >
+                            <div class="card-header">
+                                <a i18n class="card-link collapsed" data-toggle="collapse">
+                                    {{"6692788950981268263"|translate}}
+                                </a>
+                            </div>
+                            <div id="collapseFive" class="collapse" [ngClass]="{'show':Active[4]}" data-parent="#accordion">
+                                <div i18n class="card-body">
+                                    {{"7591270271699470417"|translate}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a i18n class="btn" href="https://wa.me/201017182110?text=Your%20message%20here" target="_blank">{{"7145772840389916564"|translate}}</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+</div>

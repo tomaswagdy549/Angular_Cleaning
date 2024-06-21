@@ -1,0 +1,68 @@
+<div class="wrapper">
+  <div class="service">
+    <div class="container">
+      <div class="section-header">
+        <h2 i18n>{{"2949657722816283069"|translate}}</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <form id="serviceForm" enctype="multipart/form-data">
+            <div class="form-group">
+              <label i18n for="serviceName">{{"8604852007710946848"|translate}}</label>
+              <input
+                type="text"
+                class="form-control"
+                id="serviceName"
+                name="serviceName"
+                [(ngModel)]="editedService.name"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <label i18n for="serviceDescription">{{"3826790322520473098"|translate}}</label>
+              <textarea
+                class="form-control"
+                id="serviceDescription"
+                name="serviceDescription"
+                cols="4"
+                style="resize: none"
+                [(ngModel)]="editedService.description"
+                required
+              ></textarea>
+            </div>
+            <div class="form-group">
+              <label i18n for="serviceImage">{{"8640774191050406264"|translate}}</label>
+              <select
+                class="form-select"
+                id="sel1"
+                name="Category"
+                [(ngModel)]="editedService.catId"
+              >
+                <option i18n value="0">{{"6185546642857065891"|translate}}</option>
+                <option
+                  *ngFor="let category of categoriesOptions"
+                  [value]="category.id"
+                >
+                  {{ category.name }}
+                </option>
+              </select>
+            </div>
+            <br />
+            <div *ngIf="errors==null" class="form-group">
+              <div *ngFor="let errorKey of objectvalues(errors)">
+                  <p i18n style="color: red">{{ errorKey }}</p> 
+              </div> 
+            </div>
+            <button i18n
+              type="button"
+              class="btn btn-primary"
+              (click)="editService()"
+            >
+              {{"4316517168190143459"|translate}}
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

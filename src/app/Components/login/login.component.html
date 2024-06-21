@@ -1,0 +1,165 @@
+<!-- login.component.html -->
+<div id="log&reg" class="container-fluid position-relative">
+  <div class="row min-vh-100 justify-content-center align-items-center">
+    <!--* ═══════════▶  Image in login & signup ◀════════════ -->
+    <div class="photo col-md-5 pb-5 d-lg-flex flex-lg-column">
+      <div class="img-container">
+        <img src="assets/images/login.png" class="w-100 h-100" alt="Login" />
+      </div>
+    </div>
+    <!--* ════════════▶  Content in login & signup ◀══════════════ -->
+    <div class="col-md-8 col-lg-4">
+      <div class="content">
+        <div id="parent" class="px-3 px-lg-4 w-100 d-flex flex-column gap-4">
+          <!--? ════▶ LOGIN content ◀═══════ -->
+          <div id="login" class="d-flex flex-column gap-4" *ngIf="haveAccount">
+            <h1 i18n class="mb-3">{{"4339419593501828827"|translate}}</h1>
+            <!--* ═════════▶ Email ◀═════════ -->
+            <div>
+              <label
+                i18n
+                class="d-flex justify-content-between fw-semibold mb-1"
+                style="color: #00539c"
+                for="emailinput"
+              >
+                {{"7817163188308824825"|translate}}
+              </label>
+              <!--* ═════════▶ Input-Email ◀═════════ -->
+              <input
+                type="text"
+                id="emailinput"
+                [(ngModel)]="loginData.Email"
+                class="form-control w-100"
+              />
+            </div>
+            <!--* ═════════▶ Password  ◀══════════ -->
+            <div>
+              <label
+                i18n
+                class="d-flex justify-content-between fw-semibold mb-1"
+                style="color: #00539c"
+                for="passinput"
+              >
+                {{"1557080315836233628"|translate}}
+              </label>
+              <!--* ═════════▶ Input-Pass ◀══════════ -->
+              <input
+                id="passinput"
+                [(ngModel)]="loginData.Password"
+                class="form-control w-100"
+                type="password"
+              />
+            </div>
+            <div *ngIf="errors" class="form-group">
+              <div *ngFor="let errorKey of objectvalues(errors)">
+                <p style="color: red">{{ errorKey }}</p>
+              </div>
+            </div>
+            <!--^ ══════▶ LOGIN Button ◀═════ -->
+            <button
+              i18n
+              id="btnLogin"
+              (click)="login()"
+              class="btn btn-login mt-2 mb-0 fw-semibold"
+            >
+              {{"1908285951500318953"|translate}}
+            </button>
+            <span  (click)="haveAccount = !haveAccount" i18n id="createOne" style="cursor: pointer;" class="create-one text-primary mt-0">
+              {{"6863197159137582920"|translate}}
+            </span>
+            <a href="/ChangePassword" i18n id="createOne" style="cursor: pointer;" class="create-one text-primary mt-0">
+              {{"3282283807985432644"|translate}}
+            </a>
+          </div>
+          <!--* ═════════▶ Register ◀═════════ -->
+          <div
+            id="register"
+            class="d-flex flex-column gap-4"
+            *ngIf="!haveAccount"
+          >
+            <h1
+              i18n
+              class="mb-3 d-flex justify-content-between align-items-center"
+              style="color: #00539c"
+            >
+              {{"357728900295913224"|translate}}
+              <i
+                (click)="switchFromSignupToLogin()"
+                style="cursor: pointer"
+                class="fa-solid fs-1 fa-circle-arrow-left"
+              ></i>
+            </h1>
+            <!--* ═════════▶ Name ◀═════════ -->
+            <div>
+              <label
+                i18n
+                class="d-flex justify-content-between fw-semibold mb-1"
+                for="nameInput"
+                style="color: #00539c"
+              >
+              {{"8778616811237742446"|translate}}
+              </label>
+              <!--* ═════════▶ Input-Name ◀═════════ -->
+              <input
+                type="text"
+                [(ngModel)]="registerData.Username"
+                id="nameInput"
+                class="form-control w-100"
+              />
+            </div>
+            <!--* ═════════▶ Email ◀═════════ -->
+            <div>
+              <label
+                i18n
+                class="d-flex justify-content-between fw-semibold mb-1"
+                for="emailInput"
+                style="color: #00539c"
+              >
+                {{"7016129083952522893"|translate}}
+              </label>
+              <!--* ═════════▶ Input-Email ◀═════════ -->
+              <input
+                type="text"
+                [(ngModel)]="registerData.Email"
+                id="emailInput"
+                class="form-control w-100"
+              />
+            </div>
+            <!--* ═════════▶ Password  ◀══════════ -->
+            <div>
+              <label
+                i18n
+                class="d-flex justify-content-between fw-semibold mb-1"
+                for="passInput"
+                style="color: #00539c"
+              >
+                {{"1557080315836233628"|translate}}
+              </label>
+              <!--* ═════════▶ Input-Pass ◀══════════ -->
+              <input
+                id="passInput"
+                [(ngModel)]="registerData.Password"
+                class="form-control w-100"
+                type="password"
+              />
+            </div>
+            <div *ngIf="errors" class="form-group">
+              <div *ngFor="let errorKey of objectvalues(errors)">
+                <p i18n style="color: red">{{ errorKey }}</p>
+              </div>
+            </div>
+            <!--^ ══════▶ signup Button ◀═════ -->
+            <button
+              i18n
+              id="btnSign"
+              (click)="register()"
+              class="btn btn-login mt-2 mb-0 fw-semibold"
+            >
+              {{"744750008248382275"|translate}}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

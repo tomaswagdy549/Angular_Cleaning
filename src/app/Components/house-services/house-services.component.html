@@ -1,0 +1,259 @@
+<div class="wrapper">
+  <!-- Page Header Start -->
+  <div class="page-header" style="width: 100%">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 i18n>{{"5957083487696178876"|translate}}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Page Header End -->
+
+  <!-- Service Start -->
+  <div class="service">
+    <div class="container">
+      <div class="section-header">
+        <p i18n>{{"4019540586617799203"|translate}}</p>
+        <h2 i18n>{{"1106657001218304653"|translate}}</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/kitchencleaning.jpg"
+              alt="kitchen cleaning"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"2660849243382409515"|translate}}</h3>
+            <p i18n>
+              {{"2957370507081839295"|translate}}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/glassCleaning.jpg"
+              alt="Glass Cleaning"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"5735454619361140247"|translate}}</h3>
+            <p i18n>
+              {{"4789409977832455402"|translate}}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/living room.jpg"
+              alt="Living Room"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"6230821459101599626"|translate}}</h3>
+            <p i18n>
+           {{"4114780964567677404"|translate}}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/batroom.jpg"
+              alt="Bathroom Cleaning"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"8953523975206438895"|translate}}</h3>
+            <p i18n>
+              {{"833165023961391220"|translate}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Service End -->
+
+  <!-- Service Start -->
+  <div class="service">
+    <div class="container">
+      <div class="section-header">
+        <p i18n>{{"2115002583129580704"|translate}}</p>
+        <h2 i18n>{{"3608525316934053356"|translate}}</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/Moveing Furniture.jpg"
+              alt="Moveing Furniture"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"548418695822744039"|translate}}</h3>
+            <p i18n>
+              {{"9074085362448594664"|translate}}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/empty house.jpg"
+              alt="Cleaning"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"238603894730362023"|translate}}</h3>
+            <p i18n>
+              {{"9093894381303368494"|translate}}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/living room.jpg"
+              alt="Living Room"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"8244360649893281351"|translate}}</h3>
+            <p i18n>
+              {{"8425409244732101582"|translate}}
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item">
+            <img
+              src="assets/images/home painting.jpg"
+              alt="Home Painting"
+              style="height: 200px"
+            />
+            <h3 i18n>{{"1071326786581565393"|translate}}</h3>
+            <p i18n>
+              {{"1302098823989449366"|translate}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Service End -->
+
+  <div class="faqs">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5">
+          <div class="section-header left">
+            <p i18n>{{"317176726244623149"|translate}}</p>
+            <h2 i18n>{{"9221730911539762110"|translate}}</h2>
+          </div>
+          <img src="assets/images/questions.jpg" alt="Image" />
+        </div>
+        <div class="col-md-7">
+          <div id="accordion">
+            <div class="card" style="cursor:pointer">
+              <div class="card-header">
+                <a
+                  (click)="Active[0] = !Active[0]"
+                  i18n
+                  class="card-link collapsed"
+                  data-toggle="collapse"
+                  aria-expanded="true"
+                >
+                  {{"8805338327648646192"|translate}}
+                </a>
+              </div>
+              <div
+                id="collapseOne"
+                class="collapse"
+                data-parent="#accordion"
+                [ngClass]="{ 'show': Active[0] }"
+              >
+                <div i18n class="card-body">
+                  {{"5079809398316072656"|translate}}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer">
+              <div class="card-header">
+                <a
+                (click)="Active[1] = !Active[1]"
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{"1811568517738411035"|translate}}
+                </a>
+              </div>
+              <div id="collapseTwo" class="collapse" [ngClass]="{ 'show': Active[1] }" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{"4356567225608619024"|translate}}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer">
+              <div class="card-header">
+                <a
+                (click)="Active[2] = !Active[2]"
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{"5425703835553008193"|translate}}
+                </a>
+              </div>
+              <div id="collapseThree" class="collapse" [ngClass]="{ 'show': Active[2] }" data-parent="#accordion">
+                <div i18n class="card-body">
+                   {{"3824757975555430537"|translate}}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer">
+              <div class="card-header">
+                <a
+                (click)="Active[3] = !Active[3]"
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                  {{"5150314451178682587"|translate}}
+                </a>
+              </div>
+              <div id="collapseFour" class="collapse" [ngClass]="{ 'show': Active[3] }" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{"288682101509638191"|translate}}
+                </div>
+              </div>
+            </div>
+            <div class="card" style="cursor:pointer">
+              <div class="card-header">
+                <a
+                (click)="Active[4] = !Active[4]"
+                  i18n
+                  class="card-link"
+                  data-toggle="collapse"
+                >
+                {{"6870138729348640621"|translate}}
+                </a>
+              </div>
+              <div id="collapseFour" class="collapse" [ngClass]="{ 'show': Active[4] }" data-parent="#accordion">
+                <div i18n class="card-body">
+                  {{"2505936321058576566"|translate}}
+                </div>
+              </div>
+            </div>
+          </div>
+          <a
+            i18n
+            class="btn"
+            href="https://wa.me/201017182110?text=Your%20message%20here"
+            target="_blank"
+            >{{"7145772840389916564"|translate}}</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
