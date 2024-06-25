@@ -1,5 +1,4 @@
 
-
 .wrapper {
     position: relative;
     width: 100%;
@@ -7,10 +6,6 @@
     margin: 0 auto;
     background: #ffffff;
 }
-
-/*******************************/
-/******* Section Header ********/
-/*******************************/
 .section-header {
     position: relative;
     width: 100%;
@@ -69,10 +64,6 @@
     left: 0;
     border-radius: 5px;
 }
-
-/*******************************/
-/******* Page Header CSS *******/
-/*******************************/
 .page-header {
     position: relative;
     margin-bottom: 45px;
@@ -116,10 +107,6 @@
     display: none;
 }
 
-
-/*******************************/
-/******** Portfolio CSS ********/
-/*******************************/
 .portfolio {
     position: relative;
     padding: 45px 0;
