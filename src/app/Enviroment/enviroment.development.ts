@@ -1,3 +1,3 @@
 export const environment = {
-  baseUrl: 'http://localhost:43827',
+  baseUrl: 'http://friendsclean2002-001-site3.gtempurl.com',
 };
